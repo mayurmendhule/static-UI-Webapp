@@ -1,0 +1,158 @@
+.container{
+    text-align: center;
+  }
+  html {
+    font-size: 16px;
+  }
+  body {
+    line-height: 1.5;
+    color: black;
+    margin:0;
+    text-decoration: none;
+  } 
+  
+  header{
+    text-align: left;
+    padding-left: 10rem;
+    border-bottom: 1.2px solid rgb(89, 144, 216)
+  }
+  
+  
+  
+  .title{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:2rem;
+    vertical-align: top;
+    color: rgb(123, 211, 240);
+  }
+  .logo{
+    width: 10rem;
+    height: 3rem;
+  }
+  
+  .camera-icon{
+    width: 2.3rem;
+    height: 2.3rem;
+    position: absolute;
+    right: 12vw;
+    top: 0.3rem;
+  }
+  
+  a{
+    text-decoration: none;
+    color: inherit;
+    background-color: transparent;
+  }
+  
+  ul{
+    list-style: none;
+  }
+  
+  img{
+    vertical-align: middle;
+    border-style: none;
+  }
+  
+  
+  .post{
+    width: 40vw;
+    margin-left: 25vw;
+    margin-bottom: 1.5rem;
+    border:1px solid #dedede;
+    border-radius: 0.2rem;
+    height:60vh;
+  }
+  
+  .post-head{
+    text-align: left;
+    line-height: 0.1rem;
+    position: relative;
+    margin: 0rem 0rem 0rem 1rem;
+    height: 8%;
+  }
+  
+  .p-name{
+    font-weight: 770;
+    font-size: 1rem;
+  }
+  
+  .p-location{
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #818181;
+  }
+  
+  .dot{
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+  
+  .more-op{
+    position: absolute;
+    top: 0rem;
+    right: 1rem;
+  }
+  
+  .post-img{
+    width: inherit;
+    height: 60%;
+    border: 1px solid black;
+  }
+  
+  .img{
+    height: 100%;
+    width: inherit;
+  }
+  .btn{
+    position: relative;
+    min-height: 2rem;
+  }
+  .like-btn, .share-btn{
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+  
+  .like-btn{
+    margin: 0rem 0rem 0rem 1rem;
+    position: absolute;
+    left:0.2rem;
+    top:0.3rem;
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  
+  .share-btn{
+    margin: 0rem 0rem 0rem 1rem;
+    position: absolute;
+    left: 3rem;
+    top:0.3rem;
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  
+  .date{
+    float: right;
+    margin-right: 1rem;
+    margin-top: 0.4rem;
+    font-size: 0.9rem;
+    color: #818181;
+    font-weight: 600;
+  }
+  
+  .nolikes{
+    float: left;
+    padding-left: 0.2rem;
+    font-size: 0.7rem;
+    color: #818181;
+    font-weight: 600;
+    width: inherit;
+    margin: 0rem 0rem 0rem 1rem;
+  }
+  
+  .descrip{
+    float: left;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin: 0rem 0rem 0rem 1rem;
+  }
+  
