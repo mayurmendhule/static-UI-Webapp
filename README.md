@@ -1,2 +1,2 @@
-# static-UI-Webapp
+# my-Insta-Clone
 2nd repo
